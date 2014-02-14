@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>8721B018-9F24-4D87-AFB3-8ED021207DC5</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ProjectPETMILY</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AE40C61A-9C64-4006-B04A-8479334ECEDE</key>
+		<string>https://github.com/Ethan-hansa/TeamProjectPETMILY.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ProjectPETMILY.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AE40C61A-9C64-4006-B04A-8479334ECEDE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/Ethan-hansa/TeamProjectPETMILY.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AE40C61A-9C64-4006-B04A-8479334ECEDE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AE40C61A-9C64-4006-B04A-8479334ECEDE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ProjectPETMILY</string>
+		</dict>
+	</array>
+</dict>
+</plist>

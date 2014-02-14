@@ -1,0 +1,39 @@
+PODS:
+  - AFNetworking (2.1.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+    - AFNetworking/UIKit
+  - AFNetworking/NSURLConnection (2.1.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.1.0):
+    - AFNetworking/NSURLConnection
+  - AFNetworking/Reachability (2.1.0)
+  - AFNetworking/Security (2.1.0)
+  - AFNetworking/Serialization (2.1.0)
+  - AFNetworking/UIKit (2.1.0):
+    - AFNetworking/NSURLConnection
+  - MNMBottomPullToRefresh (0.0.1)
+  - PopoverView (0.0.1)
+  - REFrostedViewController (2.4.2)
+  - UIImage+BlurredFrame (0.0.4)
+
+DEPENDENCIES:
+  - AFNetworking (~> 2.0)
+  - MNMBottomPullToRefresh (~> 0.0.1)
+  - PopoverView (~> 0.0.1)
+  - REFrostedViewController (~> 2.4.2)
+  - UIImage+BlurredFrame (~> 0.0.4)
+
+SPEC CHECKSUMS:
+  AFNetworking: c7d7901a83f631414c7eda1737261f696101a5cd
+  MNMBottomPullToRefresh: 7ae295032364234179a081a0643d742c72a51218
+  PopoverView: 571c17ebd5f0c20570e1f12ca1800bd56e1b6dc3
+  REFrostedViewController: 87207eece6eda9c888c68d5e1b60b6bde4797142
+  UIImage+BlurredFrame: 9f29c4796105b50742abc31a69e18e37afb080a0
+
+COCOAPODS: 0.29.0
